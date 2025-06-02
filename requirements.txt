@@ -1,0 +1,5 @@
+label-studio # for data labeling
+transformers # for model training and inference
+torch # for deep learning model training
+pandas
+openpyxl
