@@ -3,3 +3,5 @@ transformers # for model training and inference
 torch # for deep learning model training
 pandas
 openpyxl
+fastapi # for building APIs
+uvicorn # for serving FastAPI applications
