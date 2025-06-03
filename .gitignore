@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+ner_model/
 # Distribution / packaging
 .Python
 build/

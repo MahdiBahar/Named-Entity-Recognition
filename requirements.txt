@@ -5,3 +5,5 @@ pandas
 openpyxl
 fastapi # for building APIs
 uvicorn # for serving FastAPI applications
+"accelerate>=0.26.0"
+datasets # for handling datasets
